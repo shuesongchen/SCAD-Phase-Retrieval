@@ -8,7 +8,7 @@
 % Chen, X., Li, F. Single-Shot Phase Retrieval Via Gradient-Sparse
 % Non-Convex Regularization Integrating Physical Constraints.
 % J Sci Comput 102, 63 (2025).
-% https://doi.org/10.1007/s10915-024-02747-x
+% https://doi.org/10.1007/s10915-025-02788-2
 
 clear all;
 close all;

@@ -1,4 +1,4 @@
-# Single-Shot Phase Retrieval Via Gradient-Sparse Non-Convex Regularization Integrating Physical Constraints
+# [Single-Shot Phase Retrieval Via Gradient-Sparse Non-Convex Regularization Integrating Physical Constraints](https://doi.org/10.1007/s10915-025-02788-2)
 
 MATLAB implementation of single-shot phase retrieval using SCAD (Smoothly Clipped Absolute Deviation) regularization with gradient-sparse non-convex regularization integrating physical constraints.
 
